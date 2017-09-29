@@ -1,4 +1,4 @@
-//Solution bt ista200
+//Solution by ista200
 //Original solution: https://www.codechef.com/viewsolution/15224401
 #include <bits/stdc++.h>
 #define int long long int
